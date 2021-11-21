@@ -1,0 +1,18 @@
+{
+	"name": "breadth-first-search",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel src/index.html -p 8000"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@pencil.js/color": "^1.18.0",
+		"@pencil.js/position": "^1.18.0",
+		"@pencil.js/rectangle": "^1.18.0",
+		"@pencil.js/scene": "^1.18.0",
+		"regenerator-runtime": "^0.13.5"
+	}
+}

@@ -12,6 +12,8 @@ You can find explanations of the code in these videos on YouTube:
 - [Pathfinding with Breadth-first Search](https://youtu.be/KwZgpPnqgLU)
 - [A* Star Search for Pathfinding](https://youtu.be/j8FNQLN-mMA)
 
+The code uses modern JavaScript and the Pencil.js library to render squares and show what the algorith does each iteration.
+
 ## Getting Started
 
 Clone this repository with git and run:
